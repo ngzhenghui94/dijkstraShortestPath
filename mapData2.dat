@@ -1,0 +1,81 @@
+"Sembawang","Woodlands",5
+"Sembawang","Nee Soon",5
+"Sembawang","Mandai",6
+
+"Woodlands","Nee Soon",9
+"Woodlands","Mandai",8
+"Woodlands","Bukit Panjang",11
+"Woodlands","Choa Chu Kang",11
+
+"Nee Soon","Mandai",3
+"Nee Soon","Bukit Panjang",16
+"Nee Soon","Ang Mo Kio",6
+
+"Bukit Panjang","Mandai",15
+"Bukit Panjang","Ang Mo Kio",16
+"Bukit Panjang","Choa Chu Kang",4
+"Bukit Panjang","Bukit Batok",7
+"Bukit Panjang","Bukit Timah",6
+"Bukit Panjang","Upper Thomson",14
+
+"Choa Chu Kang","Tuas",15
+"Choa Chu Kang","Jurong",22
+"Choa Chu Kang","Bukit Batok",6
+
+"Tuas","Jurong",19
+"Tuas","Bukit Batok",16
+
+"Jurong","Tuas",19
+"Jurong","Bukit Batok",19
+"Jurong","Bukit Timah",25
+
+"Bukit Batok","Tuas",16
+"Bukit Batok","Clementi",7
+"Bukit Batok","Ang Mo Kio",18
+
+"Bukit Timah","Bukit Batok",5
+"Bukit Timah","Clementi",5
+"Bukit Timah","Bedok",22
+"Bukit Timah","Toa Payoh",10
+"Bukit Timah","Queenstown",9
+
+"Queenstown","Clementi",5
+"Queenstown","Toa Payoh",9
+"Queenstown","Outram",5
+"Queenstown","Sentosa",10
+
+"Pasir Panjang","Queenstown",6
+"Pasir Panjang","Clementi",7
+"Pasir Panjang","Sentosa",8
+
+"Sentosa","Queenstown",10
+"Sentosa","Outram",6
+
+"Outram","Toa Payoh",8
+"Outram","Marina Bay",2
+"Outram","Bedok",16
+
+"Marina Bay","Bedok",16
+"Marina Bay","Toa Payoh",10
+
+"Toa Payoh","Bedok",13
+"Toa Payoh","Tampines",15
+"Toa Payoh","Changi",18
+"Toa Payoh","Upper Thomson",6
+
+"Upper Thomson","Ang Mo Kio",5
+"Upper Thomson","Serangoon",8
+"Upper Thomson","Bedok",16
+"Upper Thomson","Bukit Timah",11
+"Upper Thomson","Queenstown",10
+
+"Serangoon","Punggol",8
+"Serangoon","Ang Mo Kio",6
+"Serangoon","Tampines",12
+"Serangoon","Toa Payoh",6
+
+"Tampines","Changi",5
+"Tampines","Bedok",5
+
+"Changi","Serangoon",16
+
